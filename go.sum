@@ -1,0 +1,16 @@
+github.com/defskela/httpServer v0.0.0-20250101203047-62d9be4dd786 h1:oaMcL9Qidduw0Z7D21dtOdt1RVs0I4yPlbI1YQUkYM4=
+github.com/defskela/httpServer v0.0.0-20250101203047-62d9be4dd786/go.mod h1:/ozbfdflrmnGFG3Mbdgy9bRgacIi54Pz95uOSMSN6Y0=
+github.com/defskela/httpServer v0.0.0-20250101204955-025f2a69cd34 h1:HBS1WjlQ34VHoP5J42HbAgnfN7zV2yt7Yw6rAzyLGJk=
+github.com/defskela/httpServer v0.0.0-20250101204955-025f2a69cd34/go.mod h1:/ozbfdflrmnGFG3Mbdgy9bRgacIi54Pz95uOSMSN6Y0=
+github.com/defskela/httpServer v0.0.0-20250103191610-700dce9d0044 h1:UmnvBZzmeUAjLrwX7ab30MZsRpZjP09+11hM9UaYoTA=
+github.com/defskela/httpServer v0.0.0-20250103191610-700dce9d0044/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
+github.com/defskela/httpServer v0.0.0-20250104095701-dce669f6606c h1:1d/Fex2tZezzSY4BypKc1WYtcIcSmzv4ecaYPl5Gqbw=
+github.com/defskela/httpServer v0.0.0-20250104095701-dce669f6606c/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
+github.com/defskela/httpServer v0.0.0-20250104101215-6cdcc215dd6e h1:H1KIWxLADLok73R0L+FLS3+FHsIGw0OJocoias3Lyoc=
+github.com/defskela/httpServer v0.0.0-20250104101215-6cdcc215dd6e/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
+github.com/defskela/httpServer v0.0.0-20250104102408-122d609d2a7e h1:+QXiQDLOALVsu3eL1BmKqCynQyGFZp6oJ5rM6eqRiMs=
+github.com/defskela/httpServer v0.0.0-20250104102408-122d609d2a7e/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
+github.com/defskela/httpServer v0.0.0-20250104105212-11436495f419 h1:jWB62X+6M9Fq927m3GIWMwigN04T8fxmby6n1hSNX8A=
+github.com/defskela/httpServer v0.0.0-20250104105212-11436495f419/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
