@@ -12,5 +12,7 @@ github.com/defskela/httpServer v0.0.0-20250104102408-122d609d2a7e h1:+QXiQDLOALV
 github.com/defskela/httpServer v0.0.0-20250104102408-122d609d2a7e/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
 github.com/defskela/httpServer v0.0.0-20250104105212-11436495f419 h1:jWB62X+6M9Fq927m3GIWMwigN04T8fxmby6n1hSNX8A=
 github.com/defskela/httpServer v0.0.0-20250104105212-11436495f419/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
+github.com/defskela/httpServer v0.0.0-20250105172135-74ca6d1ab492 h1:sYFzXGjfChhMgjfftxfaptKf+A1QxTjtfzDk4MS/JeU=
+github.com/defskela/httpServer v0.0.0-20250105172135-74ca6d1ab492/go.mod h1:ElaQWviY6DXkv7k5svWvyS5a+6GsZlq6WrHsfaTJSak=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
